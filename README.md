@@ -127,6 +127,6 @@
 
 | 현황   | 원글                                                                                                     | 번역글 |
 | ------ | -------------------------------------------------------------------------------------------------------- | ------ |
-| 미착수 | [Advice for Better Blog Posts](https://www.fast.ai/2019/05/13/blogging-advice/) | 미정   |
+| 착수 | [Advice for Better Blog Posts](https://www.fast.ai/2019/05/13/blogging-advice/) | 미정   |
 | 미착수 | [What You Need to Know Before Considering a PhD](https://www.fast.ai/2018/08/27/grad-school/) | 미정  |
 | 미착수 | [AI Ethics Resources](https://www.fast.ai/2018/09/24/ai-ethics-resources/) | 미정  |
